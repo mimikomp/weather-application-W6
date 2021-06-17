@@ -1,0 +1,21 @@
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.current-icon,
+.current-temp {
+  font-size: 60px;
+}
+ul {
+  list-style: none;
+}
+.day,
+.hour {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.search {
+  margin-bottom: 10px;
+}
+.mon {
+}
